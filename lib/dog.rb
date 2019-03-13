@@ -1,4 +1,4 @@
-class Dog
+ class Dog
 
   attr_accessor :name
   @@all = []
@@ -20,4 +20,4 @@ class Dog
 
 end
 
-require 'pry'
+
