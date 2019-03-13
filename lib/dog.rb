@@ -16,12 +16,7 @@ class Dog
     @@all.each do |dog|
     puts dog.name
   end
-
   end
-
-  # def self.new(name)
-  # @@all << self.name
-  # end
 
 end
 
